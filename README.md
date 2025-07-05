@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Nkey's%20Record🎶&fontSize=90&fontColor=023373)
 
-<H1>👀About me</H1>
+<H1>👀 About me</H1>
 🙋🏻‍♂️ I am a Back-end Developer. <br/>
 🧊 Ice crystals, which are grains in cumulonimbus clouds, grow in collision with various particles in the clouds and then snow or rain depending on temperature and humidity. <br/>
 ☁️ I'm a flexible developer in situations where I blend into the organization, sometimes cozily and sometimes romantically, depending on the atmosphere and circumstances of the organization.
@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 <h3>Infra</h3>  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,gcp,githubactions" alt="Infra"/>
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsm4640?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
+
+
