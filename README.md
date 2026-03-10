@@ -47,6 +47,74 @@ Self-hosted code management + study + monitoring platform.
 
 ---
 
+---
+
+## 💼 Experience
+
+### Leadership
+
+#### LIKELION HUFS Global 12th (Mar 2024 – Dec 2024) · Representative
+- Led the 12th cohort as the representative of LIKELION HUFS Global
+- Coordinated communication, community activities, and overall cohort operations
+- Supported team collaboration and program participation throughout the term
+
+#### Ganziton: Python (10-University Joint Hackathon) (May 2024 – Nov 2024) · PR Team Leader
+- Led PR and event operations for a 10-university joint hackathon
+- Designed the hackathon concept and promotional direction
+- Managed merchandise production, venue coordination, and judge outreach
+- Produced Instagram promotional content and sponsor proposal decks
+
+---
+
+### Teaching & Mentoring
+
+#### Coding Education Volunteer at Pungsaeng High School (Mar 2024 – Dec 2024) · Instructor
+- Taught Django-based programming classes for students
+- Mentored students in developing a **school bazaar-related web service** as a hands-on team project
+- Supported learners in planning and implementing simple practical software projects
+
+#### Computer Programming, Division of Semiconductor and Electronic Engineering (Mar 2024 – Jun 2024) · Teaching Assistant
+- Assisted with course operation for Computer Programming classes
+- Supported students with programming practice and problem solving
+- Helped facilitate learning activities during the semester
+
+#### Coding Zone (Sep 2024 – Dec 2024) · Teaching Assistant
+- Supported coding practice sessions as a teaching assistant
+- Helped learners understand programming concepts and complete exercises
+
+#### Coding Zone (Sep 2025 – Dec 2025) · Teaching Assistant
+- Continued supporting coding practice sessions as a teaching assistant
+- Assisted students with programming exercises and learning guidance
+
+---
+
+### Activities & Hackathons
+
+#### LIKELION HUFS Global 11th (Mar 2023 – Dec 2023) · Member
+- Participated as a member of LIKELION HUFS Global 11th
+- Engaged in programming study, team activities, and community events
+
+#### Smilegate Creative Ideathon (Jul 2023) · Participant
+- Participated in the Smilegate creative mentoring ideathon
+- Worked on idea development and presentation activities
+
+#### LIKELION HUFS Global 11th Central Hackathon (Aug 2023) · Participant
+- Participated in the central hackathon as a member of LIKELION HUFS Global 11th
+- Collaborated on service ideation and development under time constraints
+
+#### Ganziton: Mirthon (9-University Joint Hackathon) (Nov 2023) · Participant
+- Participated in a joint inter-university hackathon
+- Collaborated with teammates on ideation and hackathon execution
+
+#### HUFSummer Hackathon (Jun 2024) · Participant
+- Participated in the 2024 HUFSummer Hackathon
+- Collaborated on idea development and hackathon project execution
+
+#### LIKELION HUFS Global 12th Central Hackathon (Aug 2024) · Participant
+- Participated in the central hackathon as a member of LIKELION HUFS Global 12th
+- Worked collaboratively on service planning and development under time constraints
+
+
 ## ⚙️ Tech Stack (Unified Badges)
 
 ### Languages
